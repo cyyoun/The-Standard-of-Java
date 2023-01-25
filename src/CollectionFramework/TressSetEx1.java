@@ -9,7 +9,7 @@ public class TressSetEx1 {
         String from = "b";
         String to = "d";
 
-        set.add("abc"); set.add("are"); set.add("apple");
+        set.add("abc"); set.add("are"); set.add("Apple3");
         set.add("car"); set.add("air"); set.add("disc");
         set.add("dance"); set.add("dZZZZ"); set.add("dzzz");
         set.add("java"); set.add("elevator"); set.add("ice");
