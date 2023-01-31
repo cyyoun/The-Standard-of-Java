@@ -7,7 +7,6 @@ public class ThreadEx3 {
 
     }
 }
-
 class ThreadEx3_1 extends Thread{
     public void run(){
         throwException();
